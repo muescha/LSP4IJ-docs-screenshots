@@ -1,0 +1,22 @@
+{
+  "id": "demo-lsp-socket",
+  "name": "Demo LSP (socket)",
+  "programArgs": {
+    "default": "node $PROJECT_DIR$/pr-1870-socket-transport/demo-lsp/demo-lsp.mjs --port=${port}"
+  },
+  "socket": {
+    "mode": "startAndConnect",
+    "port": 0
+  },
+  "fileTypeMappings": [
+    {
+      "fileType": {
+        "name": "Sockdemo",
+        "patterns": [
+          "*.sockdemo"
+        ]
+      },
+      "languageId": "sockdemo"
+    }
+  ]
+}

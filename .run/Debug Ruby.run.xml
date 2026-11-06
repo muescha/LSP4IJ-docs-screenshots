@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Debug Ruby" type="DAPConfiguration" factoryName="DAPConfiguration">
+    <option name="commandLine" value="screenshot-only" />
+    <option name="serverMappings"><list><ServerMappingSettings languageId="ruby"><fileType><FileTypeSettings><option name="patterns"><option value="*.rb" /><option value="*.rbx" /><option value="*.rjs" /><option value="*.gemspec" /><option value="*.rake" /><option value="*.ru" /><option value="*.erb" /><option value="*.podspec" /><option value="*.rbi" /><option value="rakefile" /><option value="gemfile" /><option value="guardfile" /><option value="podfile" /><option value="capfile" /><option value="cheffile" /><option value="hobofile" /><option value="vagrantfile" /><option value="appraisals" /><option value="rantfile" /><option value="berksfile" /><option value="berksfile.lock" /><option value="thorfile" /><option value="puppetfile" /><option value="dangerfile" /><option value="brewfile" /><option value="fastfile" /><option value="appfile" /><option value="deliverfile" /><option value="matchfile" /><option value="scanfile" /><option value="snapfile" /><option value="gymfile" /></option></FileTypeSettings></fileType></ServerMappingSettings></list></option>
+    <method v="2" />
+  </configuration>
+</component>

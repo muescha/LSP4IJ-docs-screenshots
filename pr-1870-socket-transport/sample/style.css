@@ -1,0 +1,9 @@
+body {
+  color: red;
+  colr: blue;
+}
+
+.card {
+  display: flex;
+  margin: 0 auto;
+}

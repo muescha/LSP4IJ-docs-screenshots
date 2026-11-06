@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Demo doubled mappings" type="DAPConfiguration" factoryName="DAPConfiguration">
+    <option name="commandLine" value="screenshot-only" />
+    <option name="serverMappings"><list><ServerMappingSettings languageId="go"><fileType><FileTypeSettings name="Go"><option name="patterns"><option value="*.go" /></option></FileTypeSettings></fileType></ServerMappingSettings><ServerMappingSettings languageId="go.mod"><fileType><FileTypeSettings name="Go Module File"><option name="patterns"><option value="go.mod" /></option></FileTypeSettings></fileType></ServerMappingSettings></list></option>
+    <method v="2" />
+  </configuration>
+</component>

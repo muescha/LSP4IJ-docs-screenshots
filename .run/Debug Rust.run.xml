@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Debug Rust" type="DAPConfiguration" factoryName="DAPConfiguration">
+    <option name="commandLine" value="screenshot-only" />
+    <option name="serverMappings"><list><ServerMappingSettings languageId="rust"><fileType><FileTypeSettings><option name="patterns"><option value="*.rs" /></option></FileTypeSettings></fileType></ServerMappingSettings><ServerMappingSettings languageId="ra_syntax_tree"><fileType><FileTypeSettings><option name="patterns"><option value="*.rast" /></option></FileTypeSettings></fileType></ServerMappingSettings></list></option>
+    <method v="2" />
+  </configuration>
+</component>

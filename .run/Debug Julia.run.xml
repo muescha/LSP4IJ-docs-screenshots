@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Debug Julia" type="DAPConfiguration" factoryName="DAPConfiguration">
+    <option name="commandLine" value="screenshot-only" />
+    <option name="serverMappings"><list><ServerMappingSettings languageId="julia"><fileType><FileTypeSettings><option name="patterns"><option value="*.jl" /></option></FileTypeSettings></fileType></ServerMappingSettings></list></option>
+    <method v="2" />
+  </configuration>
+</component>

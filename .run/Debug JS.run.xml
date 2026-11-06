@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Debug JS" type="DAPConfiguration" factoryName="DAPConfiguration">
+    <option name="commandLine" value="screenshot-only" />
+    <option name="serverMappings"><list><ServerMappingSettings languageId="javascript"><fileType><FileTypeSettings name="JavaScript" /></fileType></ServerMappingSettings><ServerMappingSettings languageId="javascriptreact"><fileType><FileTypeSettings><option name="patterns"><option value="*.jsx" /></option></FileTypeSettings></fileType></ServerMappingSettings><ServerMappingSettings languageId="typescript"><fileType><FileTypeSettings><option name="patterns"><option value="*.ts" /></option></FileTypeSettings></fileType></ServerMappingSettings><ServerMappingSettings languageId="typescriptreact"><fileType><FileTypeSettings><option name="patterns"><option value="*.tsx" /></option></FileTypeSettings></fileType></ServerMappingSettings></list></option>
+    <method v="2" />
+  </configuration>
+</component>

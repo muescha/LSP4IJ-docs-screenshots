@@ -1,0 +1,22 @@
+{
+  "id": "demo-lsp-attach",
+  "name": "Demo LSP (attach)",
+  "programArgs": {
+    "default": ""
+  },
+  "socket": {
+    "mode": "attach",
+    "port": 6010
+  },
+  "fileTypeMappings": [
+    {
+      "fileType": {
+        "name": "Sockattach",
+        "patterns": [
+          "*.sockattach"
+        ]
+      },
+      "languageId": "sockattach"
+    }
+  ]
+}

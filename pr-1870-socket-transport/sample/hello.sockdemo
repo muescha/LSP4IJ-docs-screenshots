@@ -1,0 +1,6 @@
+greeting = "hello over a socket"
+
+TODO: add more greetings
+FIXME: this line is broken
+
+print greeting

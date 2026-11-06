@@ -1,0 +1,44 @@
+Serialized format:
+<DAPRunConfigurationOptions>
+  <option name="commandLine" value="" />
+  <option name="serverMappings">
+    <list>
+      <ServerMappingSettings languageId="go">
+        <option name="fileNamePatterns">
+          <list>
+            <option value="*.go" />
+          </list>
+        </option>
+        <fileType>
+          <FileTypeSettings>
+            <option name="patterns">
+              <option value="*.go" />
+            </option>
+          </FileTypeSettings>
+        </fileType>
+      </ServerMappingSettings>
+      <ServerMappingSettings languageId="javascript">
+        <option name="fileNamePatterns" />
+        <fileType>
+          <FileTypeSettings name="JavaScript">
+            <option name="patterns" />
+          </FileTypeSettings>
+        </fileType>
+      </ServerMappingSettings>
+    </list>
+  </option>
+</DAPRunConfigurationOptions>
+Debug Go.run.xml: valid, mappings=5 shown=5
+Debug JS.run.xml: valid, mappings=4 shown=4
+Debug Julia.run.xml: valid, mappings=1 shown=1
+Debug Python.run.xml: valid, mappings=1 shown=1
+Debug Ruby.run.xml: valid, mappings=1 shown=1
+Debug Rust.run.xml: valid, mappings=2 shown=2
+Debug Swift.run.xml: valid, mappings=6 shown=6
+codelldb: template=2 saved=2 reopen1=4 reopen2=8 reopen3=16
+go-delve: template=5 saved=5 reopen1=10 reopen2=20 reopen3=40
+julia: template=1 saved=1 reopen1=2 reopen2=4 reopen3=8
+python-debugpy: template=1 saved=1 reopen1=1 reopen2=1 reopen3=1
+ruby-rdbg: template=1 saved=1 reopen1=1 reopen2=1 reopen3=1
+swift-lldb: template=6 saved=6 reopen1=6 reopen2=6 reopen3=6
+vscode-js-debug: template=4 saved=4 reopen1=7 reopen2=13 reopen3=25

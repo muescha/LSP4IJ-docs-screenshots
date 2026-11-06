@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Debug Python" type="DAPConfiguration" factoryName="DAPConfiguration">
+    <option name="commandLine" value="screenshot-only" />
+    <option name="serverMappings"><list><ServerMappingSettings languageId="python"><fileType><FileTypeSettings><option name="patterns"><option value="*.py" /><option value="*.rpy" /><option value="*.pyw" /><option value="*.cpy" /><option value="*.gyp" /><option value="*.gypi" /><option value="*.pyi" /><option value="*.ipy" /><option value="*.pyt" /></option></FileTypeSettings></fileType></ServerMappingSettings></list></option>
+    <method v="2" />
+  </configuration>
+</component>
